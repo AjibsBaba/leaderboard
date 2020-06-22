@@ -56,6 +56,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    /* flex-wrap: wrap; */
     transition: all 500ms ease-in-out;
 }
 
@@ -118,8 +119,8 @@ body {
 
 
 /* media que */
-@media (max-width: 425px) {
+/* @media (max-width: 425px) {
     .score {
         margin: .5em 1em 0 1em;
     }
-}
+} */
